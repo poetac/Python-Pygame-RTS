@@ -1,0 +1,2 @@
+First priority is to get selection box working with the game loop,
+and to make units move in a straight path toward the target position.

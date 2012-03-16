@@ -12,7 +12,7 @@ class Vector(object):
         self.b = self.diff[1]
         return math.sqrt(self.a**2 + self.b**2)
 
-    #Returns the distance x any y as if the distance was 1
+    #Returns the distance x any y as if the direct distance was 1
     def unit(self):
         distance = self.distance()
         self.a_unit = self.a/distance
