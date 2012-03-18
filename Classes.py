@@ -31,4 +31,6 @@ class Vector(object):
 #####################################################################
 
 
-
+class Unit(object):
+    def position(self):
+        self.coordinates -
